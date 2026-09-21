@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Azure SOC Lab] (https://github.com/stefcka/Azure-SOC-Lab)
-- [AI Defense Lab] Hackathon</b>
+- [AI Defense Lab Hackathon]</b>
 - [Discord Summarizer] (https://github.com/stefcka/DiscordSummarizer)
 <h2>Certificates</h2>
 - [AZ900] (https://learn.microsoft.com/api/credentials/share/en-us/StefanieLvovsky-3505/42DA9361445FEAFC?sharingId=CD6BD05968DACF81)
