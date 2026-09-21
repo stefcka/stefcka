@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Azure SOC Lab] (https://github.com/stefcka/Azure-SOC-Lab)
+- [Azure SOC Lab] https://github.com/stefcka/Azure-SOC-Lab
 - [AI Defense Lab Hackathon]</b>
 - [Discord Summarizer] (https://github.com/stefcka/DiscordSummarizer)
 <h2>Certificates</h2>
