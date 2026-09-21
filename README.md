@@ -1,14 +1,14 @@
-<h1>Hi, I'm Stefanie! <br/><a href="[https://github.com/stefcka">Programmer</a>, <a href="https://www.linkedin.com/in/stefanielvovsky/">Cybersecurity Professional</a>
+<h1>Hi, I'm Stefanie!
 
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Azure SOC Lab</b>
   - 
 - <b> AI Defense Lab Hackathon</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - 
 
 - <b>Discord Summarizer</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - https://github.com/stefcka/DiscordSummarizer
 
 <h2>Certificates</h2>
 -
