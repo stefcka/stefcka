@@ -1,7 +1,7 @@
 <h1>Hi, I'm Stefanie!🔐
 <h2>Currently completing my bachelors in Computer Science and Software Engineering. I have extensive experience working in startups, tech-projects and in fast-paced environments. I enjoy learning about new tech endeavors and have been exploring the world of cybersecurity. Recently completed my fundamentals on Azure, currently preparing for my CompTIA Security+ exam and completed a AI Defense Hackathon.</h2> 
   
-<h2>Cybersecurity Projects:</h2>
+<h2>Check Out These Cybersecurity Projects:</h2>
 
 - [Azure SOC Lab](https://github.com/stefcka/Azure-SOC-Lab)
 - [AI Defense Lab Hackathon](https://github.com/stefcka/AntiNoise_Tool)
